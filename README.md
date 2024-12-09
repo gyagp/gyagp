@@ -4,6 +4,6 @@
 
 ### Main Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoftl&repo=onnxruntime)](https://github.com/microsoft/onnxruntime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=onnxruntime)](https://github.com/microsoft/onnxruntime)
 
 <br>
